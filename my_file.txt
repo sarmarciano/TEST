@@ -1,0 +1,2 @@
+This is my own file that I'm using for the first git exercise.
+This text is not creative.
