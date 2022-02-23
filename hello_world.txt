@@ -1,8 +1,13 @@
 Lorem ipsum dolor sit amet, 
 consectetuer adipiscing elit. 
 Happy
+<<<<<<< HEAD
  commodo ligula eget dolor. 
  massa. 
+=======
+Aenean commodo ligula eget dolor. 
+Aenean massa. 
+>>>>>>> d40ba5df8430f96ce5dc221a74d733b5478f52b1
 Cum sociis natoque penatibus et magnis dis parturient montes, 
 nascetur ridiculus mus. 
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
